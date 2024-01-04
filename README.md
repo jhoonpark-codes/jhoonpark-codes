@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JHOONPARK_CODE&fontSize=90)
-![image]({[BadgeURLHere](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)})
+![image]({https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white})
 🖥️ WELCOME 🖥️
 - 👋 Hi, I’m @jhoonpark-codes
 - 👀 I’m interested in Multimodal Models
