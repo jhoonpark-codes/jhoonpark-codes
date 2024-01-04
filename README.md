@@ -7,8 +7,8 @@
 - 👀 I’m interested in Multimodal Models
 - 🌱 I’m currently learning @Yonsei Univ. MIR Lab
 - 📫 How to reach me ...
-> email : [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pjh940820@gmail.com)
-> linkedin : [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junghoonparkai/)
+> [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pjh940820@gmail.com)
+> [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junghoonparkai/)
 
 ## 🧑‍🎓 Education
 - M.S. in Statistics @ Chung-Ang Univ, Seoul, Republic of Korea (2022.02)
