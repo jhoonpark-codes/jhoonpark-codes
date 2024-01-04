@@ -1,4 +1,3 @@
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JHOONPARK_CODE&fontSize=90)
 🖥️ WELCOME 🖥️
 - 👋 Hi, I’m @jhoonpark-codes
