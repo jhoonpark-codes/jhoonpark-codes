@@ -2,13 +2,12 @@
 [![image](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=fEV4WMEAAAAJ&hl=en)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JHOONPARK_CODE&fontSize=90)
 
-
 ## 🖥️ WELCOME 🖥️
 - 👋 Hi, I’m @jhoonpark-codes
 - 👀 I’m interested in Multimodal Models
 - 🌱 I’m currently learning @Yonsei Univ. MIR Lab
 - 📫 How to reach me ...
-> email : pjh940820@gmail.com
+> email : [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pjh940820@gmail.com)
 > linkedin : https://www.linkedin.com/in/junghoonparkai/
 
 ## 🧑‍🎓 Education
