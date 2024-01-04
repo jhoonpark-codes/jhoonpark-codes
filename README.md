@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JHOONPARK_CODE&fontSize=90)
 
 
-🖥️ WELCOME 🖥️
+## 🖥️ WELCOME 🖥️
 - 👋 Hi, I’m @jhoonpark-codes
 - 👀 I’m interested in Multimodal Models
 - 🌱 I’m currently learning @Yonsei Univ. MIR Lab
