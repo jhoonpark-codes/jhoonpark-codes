@@ -1,5 +1,5 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junghoonparkai/)
-![image](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
+[![image](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=fEV4WMEAAAAJ&hl=en)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JHOONPARK_CODE&fontSize=90)
 
 
