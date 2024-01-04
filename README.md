@@ -11,6 +11,8 @@
 > email : pjh940820@gmail.com
 > linkedin : https://www.linkedin.com/in/junghoonparkai/
 
+## 🧑‍🎓 Education
+
 <!---
 jhoonpark-codes/jhoonpark-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
