@@ -4,7 +4,7 @@
 
 ## 🖥️ WELCOME 🖥️
 - 👋 Hi, I’m @jhoonpark-codes
-- 👀 I’m interested in Multimodal Models
+- 👀 I’m interested in Anomaly detection in autonomous driving
 <!---
 - 🌱 I’m currently learning @Yonsei Univ. MIR Lab
 --->
