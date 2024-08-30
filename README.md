@@ -15,6 +15,7 @@
 ## 🧑‍🎓 Education
 - M.S. in Statistics @ Chung-Ang Univ, Seoul, Republic of Korea (2022.02)
 - B.S. in Applied Statistics @ Chung-Ang Univ, Seoul, Republic of Korea (2020.02)
+- Ph.D in Artificial Intelligence @ Yonsei Univ, Seoul, Republic of Korea (2024.03~ / take temporally off)
 
 ## 💼 Experience
 - Data Scientist @ Netmarble Corp. (2022.01~Current)
