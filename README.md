@@ -13,9 +13,9 @@
 > [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junghoonparkai/)
 
 ## 🧑‍🎓 Education
+- Ph.D student in Artificial Intelligence @ Yonsei Univ, Seoul, Republic of Korea (2024.03~ / take temporally off)
 - M.S. in Statistics @ Chung-Ang Univ, Seoul, Republic of Korea (2022.02)
 - B.S. in Applied Statistics @ Chung-Ang Univ, Seoul, Republic of Korea (2020.02)
-- Ph.D student in Artificial Intelligence @ Yonsei Univ, Seoul, Republic of Korea (2024.03~ / take temporally off)
 
 ## 💼 Experience
 - Data Scientist @ Netmarble Corp. (2022.01~Current)
